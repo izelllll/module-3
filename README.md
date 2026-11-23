@@ -1,7 +1,7 @@
 # 🧪 Codomax Module 03: Secure Web Application Sandbox
 
-**Author:** Ayan Mondal  
-**Intern ID:** CDS/INT/2026/26637504  
+**Author:** Atiqua Qudrat  
+**Intern ID:** CDS/INTERN/261129 
 **Track:** Cybersecurity & Ethical Hacking  
 **Module:** Module 03 — Web Application Security (Day 11 – Day 15)  
 
